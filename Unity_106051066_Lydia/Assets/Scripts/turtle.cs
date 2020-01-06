@@ -90,7 +90,7 @@ public class Turtle : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            // 按下空白建撿東西
+            // 按下空白
             ani.SetTrigger("縮頭觸發器");
             
         }
