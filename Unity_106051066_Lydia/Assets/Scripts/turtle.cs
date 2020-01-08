@@ -1,7 +1,7 @@
 ﻿using UnityEngine;  // 引用 Unity API
 
 // 類別 類別名稱
-public class Turtle : MonoBehaviour
+public class turtle : MonoBehaviour
 {
     #region 欄位區域
     // 宣告變數 (定義欄位 Field)
